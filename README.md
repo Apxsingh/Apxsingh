@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/Apxsingh/Apxsingh/main/final-banner.svg" width="900" />
 </p>
 
+<h1 align="center">👋 Hey, I'm Arpit Singh Tomar</h1>
 
 
-# 👋 Hey, I'm Arpit Singh Tomar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00E5FF&background=0D111700&center=true&vCenter=true&width=500&lines=Btech+CSE+Student;Learning+AI+%26+ML; " />
