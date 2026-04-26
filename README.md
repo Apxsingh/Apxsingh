@@ -149,9 +149,6 @@ class ArpitSinghTomar:
 
 ### Thank you for visiting! Let's connect and build something amazing 🚀
 
----
-
-<img src="https://media.giphy.com/media/LnDO21PcdF0fbiJ9XC/giphy.gif" width="200" />
 
 </div>
 
