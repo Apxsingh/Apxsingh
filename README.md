@@ -76,7 +76,7 @@ class ArpitSinghTomar:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Apxsingh&title_color=00e5ff&text_color=ffffff&background=0d1117&border_color=00e5ff&stroke_color=00e5ff&fire_color=ff6d00" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Apxsingh&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=00E5FF&border=00E5FF" />
 </p>
 
 
