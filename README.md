@@ -68,21 +68,20 @@ class ArpitSinghTomar:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apxsingh&title_color=00e5ff&text_color=ffffff&bg_color=0d1117&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Apxsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Apxsingh&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=00E5FF&border=00E5FF" />
+  <img src="https://streak-stats.demolab.com/?user=Apxsingh&theme=dark&hide_border=false" />
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apxsingh&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Apxsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
 
 
 ---
