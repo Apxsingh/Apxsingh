@@ -48,8 +48,8 @@ class ArpitSinghTomar:
 
 ### 🚀 Learning Roadmap
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Starting-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ML-Upcoming-FF6F00?style=for-the-badge&logo=ml&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Python-Completed-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/ML-Starting-FF6F00?style=for-the-badge&logo=ml&logoColor=white" alt="ML" />
   <img src="https://img.shields.io/badge/DL-Upcoming-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL" />
 </p>
 
@@ -57,8 +57,8 @@ class ArpitSinghTomar:
 
 | 📚 Course | 📖 Status | 🎯 Goal |
 |----------|-----------|---------|
-| Python Fundamentals | 📖 Just Started | Learn & Practice |
-| Machine Learning | 🔜 Upcoming | Begin after Python |
+| Python Fundamentals | ✅️ Completed | Done |
+| Machine Learning | 📖 Starting | Learn & Practice |
 | Deep Learning | 🔜 Upcoming | Build on ML basics |
 | GenAI & LangChain | 🔜 Future | Long term goal |
 
