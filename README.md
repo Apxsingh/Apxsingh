@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://itshivam.in/api/github-profile?username=Apxsingh&data=followers,repositories,stars,commits,trophies&theme=blue"
+    width="900"
+    alt="GitHub Profile Card"
+  />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Apxsingh/Apxsingh/main/final-banner.svg" width="900" />
@@ -82,7 +89,9 @@ class ArpitSinghTomar:
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Apxsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apxsingh&theme=github_dark" />
+</p>
 
 ---
 
