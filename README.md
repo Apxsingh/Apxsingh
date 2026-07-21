@@ -22,20 +22,9 @@
 
 ## 🎓 About Me
 
-```python
-class ArpitSinghTomar:
-    Name         = "Arpit Singh Tomar"
-    Education    = "B.Tech CSE, 2nd Year"
-    College      = "IPS College of Technology and Management, Gwalior"
-    University   = "RGPV University, Bhopal"
-    Passion      = ["AI & ML", "Building Projects", "Open Source"]
-    Learning     = ["Python", "Artificial Intelligence & Machine Learning"]
-    Languages    = ["Python", "Java", "C", "C++"]
-    Tools        = ["Git", "GitHub", "VS Code", "VS Studio"]
-    
-    def say_hi():
-        print("Hey! Thanks for visiting my profile! Let's connect and build something amazing together 🚀")
-```
+<p align="center">
+  <img src="./terminal-banner.png" alt="Apxsingh Terminal Profile">
+</p>
 
 ---
 
